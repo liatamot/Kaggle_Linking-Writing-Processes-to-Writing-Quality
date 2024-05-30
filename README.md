@@ -1,4 +1,4 @@
-# Kaggle_Linking-Writing-Processes-to-Writing-Quality
+# Linking-Writing-Processes-to-Writing-Quality
 
 
 https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/overview
