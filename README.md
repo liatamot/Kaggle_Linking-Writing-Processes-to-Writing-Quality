@@ -1,6 +1,5 @@
 # Linking-Writing-Processes-to-Writing-Quality
 
+(수정중)
 
-https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/overview
-
-https://www.notion.so/ML-0f76e81e952749d69a0bf855ad39fd24?p=f1b1986e320149f986cfde67461fce60&pm=c
+[발표 자료](https://drive.google.com/file/d/1wIzui2uzwiAZLEbkkduyJdITcGKE71qa/view?usp=drive_link)
